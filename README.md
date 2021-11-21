@@ -42,7 +42,10 @@ T-test for Lot3:
 
 ![T-test_Lot3](Resources/Lot3.png)
 
-* There is a summary of the t-test results across all manufacturing lots and for each lot (5 pt)
+* The PSI for all manufacturing lots is not statistically different from the population mean of 1,500 pounds per square inch, since the p value derived from the t-test, 0.06, is not less than 0.05.
+* The PSI for lot 1 is is not statistically different from the population mean of 1,500 pounds per square inch, since the p value derived from the t-test, 1, is not less than 0.05.
+* The PSI for lot 2 is is not statistically different from the population mean of 1,500 pounds per square inch, since the p value derived from the t-test, 0.607, is not less than 0.05.
+* The PSI for lot 3 is is statistically different from the population mean of 1,500 pounds per square inch, since the p value derived from the t-test, 0.04, is less than 0.05.
 
 ## Study Design: MechaCar vs Competition
 * Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
