@@ -49,7 +49,7 @@ T-test for Lot3:
 
 ## Study Design: MechaCar vs Competition
 * There are other potential studies that can be conducted to quantify how the MechaCar performs against the competition. For example, cost of the MechaCar can be compared to other cars:
-* In this scenario,the null hypothesis would be that there is no statistical difference between the cost of the MechaCar and the cost of other cars. 
+* In this scenario, the null hypothesis would be that there is no statistical difference between the cost of the MechaCar and the cost of other cars. 
 * The alternative hypothesis would be that there is a statistical difference between the cost of the MechaCar and the cost of other cars, and that the cost of the MechaCar is either higher or lower than other cars.
 * The statistical test one would you use to test this hypothesis would be the two-sample t-test, since that allows us to measure the effect in either direction.
 * The data required for this test is a summary of the cost of the MechaCar and the cost of other cars, so a the two-sample t-test can be performed. 
