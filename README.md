@@ -21,12 +21,16 @@
 * There is a summary that addresses the design specification requirement for all the manufacturing lots and each lot individually (5 pt)
 
 ## T-Tests on Suspension Coils
+T-test for all Lots:
 ![T-test](Resources/T_test.png)
 
+T-test for Lot1:
 ![T-test_Lot1](Resources/Lot1.png)
 
+T-test for Lot2:
 ![T-test_Lot2](Resources/Lot2.png)
 
+T-test for Lot3:
 ![T-test_Lot3](Resources/Lot3.png)
 
 * There is a summary of the t-test results across all manufacturing lots and for each lot (5 pt)
