@@ -48,9 +48,8 @@ T-test for Lot3:
 * The PSI for lot 3 is is statistically different from the population mean of 1,500 pounds per square inch, since the p value derived from the t-test, 0.04, is less than 0.05.
 
 ## Study Design: MechaCar vs Competition
-* Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-* In your description, address the following questions:
-* What metric or metrics are you going to test?
-* What is the null hypothesis or alternative hypothesis?
-* What statistical test would you use to test the hypothesis? And why?
-* What data is needed to run the statistical test?
+* There are other potential studies that can be conducted to quantify how the MechaCar performs against the competition. For example, cost of the MechaCar can be compared to other cars:
+* In this scenario,the null hypothesis would be that there is no statistical difference between the cost of the MechaCar and the cost of other cars. 
+* The alternative hypothesis would be that there is a statistical difference between the cost of the MechaCar and the cost of other cars, and that the cost of the MechaCar is either higher or lower than other cars.
+* The statistical test one would you use to test this hypothesis would be the two-sample t-test, since that allows us to measure the effect in either direction.
+* The data required for this test is a summary of the cost of the MechaCar and the cost of other cars, so a the two-sample t-test can be performed. 
